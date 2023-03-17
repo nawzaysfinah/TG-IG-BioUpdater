@@ -1,6 +1,6 @@
-# Instagram Bio Auto-Updater
+# Telegram to Instagram Bio Auto-Updater
 
-> By Langston Howley
+> Based of Instagram Bio Auto-Updater by Langston Howley
 
 Using the [Selenium Web Driver](https://selenium-python.readthedocs.io/) and [Requests](https://requests.readthedocs.io/en/master/) modules this program updates a user's Instagram Bio to a planet's current position information every 10 minutes. A planet's name is selected at random and its position replaces the previous text in the user's bio.
 
